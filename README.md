@@ -1,1 +1,0 @@
-# Hyperspectral-Imaging-for-Mycotoxin-Prediction-in-Corn
